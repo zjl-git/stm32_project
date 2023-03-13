@@ -1,0 +1,6 @@
+R
+LoadFile main.hex
+R
+G
+
+Exit

@@ -1,0 +1,9 @@
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/zjl-git/stm32_sdk.git
+[submodule "code/drivers/f1"]
+	path = code/drivers/f1
+	url = https://github.com/zjl-git/stm32f1_driver.git
+[submodule "code/drivers/f4"]
+	path = code/drivers/f4
+	url = https://github.com/zjl-git/stm32f4_driver.git
